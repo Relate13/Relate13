@@ -10,7 +10,7 @@ I love coding and exploring innovative technologies. My focus areas include:
 
 I received my B.Sc degree in Computer Science from [Nanjing University](https://www.nju.edu.cn/en/).
 
-I am currently doing my M.Eng degree in Software Engineering at [the University of Melbourne](https://www.unimelb.edu.au/)
+I am currently doing my M.Eng degree in Software Engineering at [University of Melbourne](https://www.unimelb.edu.au/)
 
 More about me:
 
